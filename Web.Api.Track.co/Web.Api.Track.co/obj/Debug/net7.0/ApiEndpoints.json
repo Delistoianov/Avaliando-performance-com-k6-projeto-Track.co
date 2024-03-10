@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "Get",
+    "RelativePath": "widgets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "Post",
+    "RelativePath": "widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "widgetDto",
+        "Type": "Web.Api.Track.co.DTOs.Widget.WidgetCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "Get",
+    "RelativePath": "widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "Put",
+    "RelativePath": "widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "widgetUpdateDto",
+        "Type": "WidgetUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "Delete",
+    "RelativePath": "widgets/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "PostNps",
+    "RelativePath": "widgets/{widgetId}/nps",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "widgetId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "npsDto",
+        "Type": "Web.Api.Track.co.DTOs.NPS.NPSCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Api.Track.co.Controllers.WidgetController",
+    "Method": "GetNpsById",
+    "RelativePath": "widgets/{widgetId}/nps/{npsId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "widgetId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "npsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

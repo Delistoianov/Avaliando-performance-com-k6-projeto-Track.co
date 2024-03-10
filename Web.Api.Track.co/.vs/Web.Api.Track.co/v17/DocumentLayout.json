@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inteli\\Documents\\GitHub\\Avaliando-performance-com-k6-projeto-Track.co\\Web.Api.Track.co\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496F3973-39AE-4A21-A2BD-AE294ABCECCF}|Web.Api.Track.co\\Web.Api.Track.co.csproj|c:\\users\\inteli\\documents\\github\\avaliando-performance-com-k6-projeto-track.co\\web.api.track.co\\web.api.track.co\\controllers\\widgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F3973-39AE-4A21-A2BD-AE294ABCECCF}|Web.Api.Track.co\\Web.Api.Track.co.csproj|solutionrelative:web.api.track.co\\controllers\\widgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F3973-39AE-4A21-A2BD-AE294ABCECCF}|Web.Api.Track.co\\Web.Api.Track.co.csproj|c:\\users\\inteli\\documents\\github\\avaliando-performance-com-k6-projeto-track.co\\web.api.track.co\\web.api.track.co\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{496F3973-39AE-4A21-A2BD-AE294ABCECCF}|Web.Api.Track.co\\Web.Api.Track.co.csproj|solutionrelative:web.api.track.co\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\Avaliando-performance-com-k6-projeto-Track.co\\Web.Api.Track.co\\Web.Api.Track.co\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web.Api.Track.co\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\Avaliando-performance-com-k6-projeto-Track.co\\Web.Api.Track.co\\Web.Api.Track.co\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web.Api.Track.co\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T16:40:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WidgetController.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\Avaliando-performance-com-k6-projeto-Track.co\\Web.Api.Track.co\\Web.Api.Track.co\\Controllers\\WidgetController.cs",
+              "RelativeDocumentMoniker": "Web.Api.Track.co\\Controllers\\WidgetController.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\Avaliando-performance-com-k6-projeto-Track.co\\Web.Api.Track.co\\Web.Api.Track.co\\Controllers\\WidgetController.cs",
+              "RelativeToolTip": "Web.Api.Track.co\\Controllers\\WidgetController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAwNoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:14:11.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
