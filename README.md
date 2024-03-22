@@ -52,4 +52,6 @@ A transferência de dados enviada foi de aproximadamente 390 KB a uma taxa de 1.
 
 * A verificação expected_response:true teve uma média de 66.1ms, mostrando que a resposta esperada foi rápida e consistente.
 
+### Conceitos Aprendidos:
 
+Compreendi que o K6 é uma ferramenta de teste de carga que exige a criação de um arquivo específico para cada endpoint. Isso é fundamental para avaliar a capacidade de carga que cada endpoint pode suportar de forma individualizada. Caso se opte por consolidar todos os endpoints de um controlador em um único arquivo, o teste será aplicado ao módulo como um todo, e não aos endpoints isoladamente. Assim, para uma análise detalhada e precisa da resistência de cada ponto de acesso, a abordagem correta é testar cada um separadamente.
