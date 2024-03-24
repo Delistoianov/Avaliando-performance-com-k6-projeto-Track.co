@@ -34,6 +34,8 @@ Essa configuração oferece uma visão abrangente sobre o comportamento do siste
 
 Foram realizados os testes em 4 dos 7 endpoints do projeto, são eles: "get all widgets", "get one widget by id", "post widget" e "post nps".
 
+![resultado-k6](Assets/status-200.png)
+
 ### Resultados HTTP:
 
 * status 200: Houve 794 verificações para a resposta HTTP 200, o que significa que todas as solicitações GET foram bem-sucedidas.
